@@ -1,0 +1,2 @@
+1. turn jpg to greyscale with value [0.0, 1.0]
+2. based on the greyscale value, replace the pixel with an ASCII char from the ascii char array
